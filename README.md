@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/Srblx.png" style="border:solid 2px white;">
+<img src="/13vlxxLogo.png" style="height: 100px;">
 
 <samp> 
 
