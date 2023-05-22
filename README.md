@@ -58,9 +58,9 @@ Je m'appelle Alex, je suis un développeur web de  <b>Marseille. <img src="https
 
 
 
-[![13vlxx GitHub stats](https://github-readme-stats.vercel.app/api?username=13vlxx&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![13vlxx GitHub stats](https://github-readme-stats.vercel.app/api?username=13vlxx&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&bg_color=0D1117&ring_color=green&title_color=fff&icon_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=13vlxx&layout=compact&langs_count=6&custom_title=Language%20Utilis%C3%A9&bg_color=0D1117&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=13vlxx&layout=compact&langs_count=6&custom_title=Language%20Utilis%C3%A9&bg_color=0D1117&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Pendant mon temps libre j'aime :</h3>
 
