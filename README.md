@@ -60,14 +60,13 @@ Je m'appelle Alex, je suis un développeur web de  <b>Marseille. <img src="https
 
 [![13vlxx GitHub stats](https://github-readme-stats.vercel.app/api?username=13vlxx&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&bg_color=0D1117&ring_color=green&title_color=fff&icon_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=13vlxx&layout=compact&langs_count=6&custom_title=Language%20Utilis%C3%A9&bg_color=0D1117&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=13vlxx&layout=compact&langs_count=6&custom_title=Language%20Utilis%C3%A9&bg_color=0D1117&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Pendant mon temps libre j'aime :</h3>
 
-![Lecture](https://img.shields.io/badge/lecture-717171?style=for-the-badge&logo=book&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-blue?style=for-the-badge&logo=Solidity&logoColor=white)
-![Horlogerie](https://img.shields.io/badge/Horlogerie-b5b5b5?style=for-the-badge&logo=watch&logoColor=black)
-![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 
 </samp>
